@@ -1,4 +1,4 @@
-A detailed example for each type of Git commit using the conventional commit format:
+# A detailed example for each type of Git commit using the conventional commit format:
 
 1. **Initial Commit**
 
