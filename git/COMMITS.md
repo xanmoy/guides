@@ -1,5 +1,7 @@
 ## A detailed example for each type of Git commit using the conventional commit format:
 
+![Git](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fnsbbm80zgqqypxyqtx1d.png)
+
 # 1. **Initial Commit**
 
 **Description:** The very first commit in a repository. It usually contains the initial project setup, like the base structure and essential files.
